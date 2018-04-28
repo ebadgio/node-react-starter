@@ -2,7 +2,7 @@
   "name": "node-react-starter",
   "version": "1.0.0",
   "description": "Starter template for a website using Node.js with Express Server on the backend, and React.js on the frontend.",
-  "main": "index.js",
+  "main": "Server.js",
   "scripts": {
     "server": "nodemon ./server/Server.js",
     "start": "node ./server/Server.js",
