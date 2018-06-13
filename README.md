@@ -1,11 +1,17 @@
 # node-react-starter
-A start template for a project using Node.js on the backend with React.js on the frontend.
+Intended to be used as a starter template for a project developed with Node.js on the backend 
+and with React.js on the frontend.
 
-## Getting Started
+## Usage
 
-
-  1. Clone the repository
-  2. cd into the package in your terminal and enter the command ```npm install```
-  3. Start the server using command ```npm run server```
-  4. Open a new tab in terminal and apply the development build ```npm run dev```
-  5. Navigate to http://localhost:3000 and you should see **We're up and running!**
+  1. **Fork Repsository**
+    * To use this template, fork the repository and use it as the basis for you node/react web application.
+    * Then clone your new repository, cd into it from command line, and continue with the next steps.
+  2. **Install dependencies:**
+    * Command: ```npm install```
+  3. **Start the server**
+    * Command: ```npm run server```
+    * Navigate to http://localhost:3000 and you should see **We're up and running!**
+  4. **Webpack build**
+    * During development: ```npm run build```
+    * For production: ```npm run prod```
