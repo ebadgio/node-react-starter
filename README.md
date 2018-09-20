@@ -3,7 +3,7 @@ Intended to be used as a starter template for a project developed with Node.js o
 and with React.js on the frontend.
 
 **Note:**
-For a more robust starter go to my ![node-react-redux-starter](https://github.com/ebadgio/node-react-redux-starter)
+For a more robust starter go to my [node-react-redux-starter](https://github.com/ebadgio/node-react-redux-starter)
 
 ## Usage
 
